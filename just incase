@@ -1,0 +1,35 @@
+<div class="col border">
+  Home
+</div>
+
+<div class="col border">
+  Series
+</div>
+
+<div class="col border">
+  Episodes
+</div>
+
+<div class="col border">
+  Merch Shop
+</div>
+
+<div class="col border">
+  Subscribe
+</div>
+
+<div class="col border">
+  Profile
+</div>
+
+<div class="col border">
+  Sign In
+</div>
+
+<div class="col border">
+  Cart
+</div>
+
+
+d-none d-md-block (desk)
+d-md-none
